@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book [
+<!--Begin Entities-->
+<!ENTITY acee81c39263cb6437dbd3cf941e8c2bc SYSTEM "file:///D:/OneDrive - ufu.br/01 GitHub/NotUFU/xHartSci/xHartSci/help/en_US/TBX_SUM_c.xml">
+<!ENTITY abb98e9000f1c47daffa21facc8cf9624 SYSTEM "file:///D:/OneDrive - ufu.br/01 GitHub/NotUFU/xHartSci/xHartSci/help/en_US/tbx_sum.xml">
+<!--End Entities-->
+]>
+<book version="5.0-subset Scilab" xml:lang="en_US"
+      xmlns="http://docbook.org/ns/docbook"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xi="http://www.w3.org/2001/XInclude"
+      xmlns:svg="http://www.w3.org/2000/svg"
+      xmlns:mml="http://www.w3.org/1998/Math/MathML"
+      xmlns:html="http://www.w3.org/1999/xhtml"
+      xmlns:db="http://docbook.org/ns/docbook">
+  <info xml:id='xcos_toolbox_skeleton_manual'>
+    <title>xcos_toolbox_skeleton</title>
+  </info>
+
+<part xml:id='section_1df8b58b297928a4e2afb4b592ea42a8'>
+<title>xcos_toolbox_skeleton</title>
+&acee81c39263cb6437dbd3cf941e8c2bc;
+&abb98e9000f1c47daffa21facc8cf9624;
+</part>
+</book>

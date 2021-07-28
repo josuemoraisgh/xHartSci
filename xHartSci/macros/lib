@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="xcos_toolbox_skeletonlib">
+  <macro name="TBX_MUT_STYLE" file="TBX_MUT_STYLE.bin" md5="a79eeb0104855b940e86cf871600c0d1"/>
+  <macro name="TBX_SUM_c" file="TBX_SUM_c.bin" md5="beb58299db996c12c6b5bc2e010e8df3"/>
+</scilablib>
